@@ -1,6 +1,7 @@
 
 # react-mg-lazy-loading
 
+chipopo
 ### easy way to make lazy loading images in your website
 ```bash
   npm i react-mg-lazy-loading
