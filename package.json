@@ -1,0 +1,14 @@
+{
+  "name": "react-mg-lazy-loading",
+  "version": "1.0.1",
+  "description": "lazy loading images",
+  "main": "useLazyLoading.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lazy-loading"
+  ],
+  "author": "Michael Gabay",
+  "license": "ISC"
+}
